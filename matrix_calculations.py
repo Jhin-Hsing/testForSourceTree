@@ -1,6 +1,5 @@
 ﻿"""簡易矩陣運算示範，無使用者互動。"""
 from __future__ import annotations
-
 from typing import List, Tuple
 
 Matrix = List[List[float]]
